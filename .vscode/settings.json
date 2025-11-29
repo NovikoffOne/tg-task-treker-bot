@@ -1,0 +1,15 @@
+{
+  // Настройки Cursor для автоматического принятия изменений
+  "cursor.chat.autoAccept": true,
+  "cursor.composer.autoAccept": true,
+  "cursor.agent.autoAccept": true,
+  
+  // Отключить показ diff перед применением
+  "cursor.chat.showDiff": false,
+  "cursor.composer.showDiff": false,
+  
+  // Автоматически применять изменения без подтверждения
+  "cursor.chat.requireConfirmation": false,
+  "cursor.composer.requireConfirmation": false
+}
+
